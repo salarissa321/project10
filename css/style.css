@@ -1,0 +1,166 @@
+
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+
+
+
+
+.mynav{
+
+}
+
+
+.mynschinto{
+font-family: 'Montserrat', sans-serif;
+font-size: 30px;
+font-weight: 600;
+color: darkblue;
+max-width: 100%;
+}
+
+
+
+.banner{
+    padding: 15px 0;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 600;
+    color: #111;
+    font-family: 'Montserrat', sans-serif;
+margin: 10px;
+
+}
+
+
+.banner:hover{
+    color: #ff375f;  
+}
+
+.myschrift{
+    font-size: 22px;
+margin-bottom: 20px;
+font-family: 'Nunito', sans-serif;
+font-weight: bold;
+color: #ff375f;
+margin-left: 170px;
+}
+
+
+.myschrift2{
+    font-size: 60px;
+margin-bottom: 19px;
+font-family: 'Nunito', sans-serif;
+font-weight: bold;
+color: #111;
+margin-left: 165px;
+}
+
+
+.mypara{
+    font-size: 20px;
+margin-bottom: 42px;
+color: #666;
+font-family: 'Montserrat', sans-serif;
+font-weight: 400;
+margin-left: 165px;
+}
+
+
+.mybtn{
+    margin-left: 165px;
+    background-color: #ff375f;
+color: #fff;
+text-decoration: none;
+font-family: 'Montserrat', sans-serif;
+font-size: 15px;
+border-radius: 7px;
+font-weight: 600;
+padding-left: 10px; 
+padding: 0.8em 2.5em;
+}
+
+
+.mybtn:hover{
+    background-color: #ff375f; 
+}
+
+.myimg{
+    max-width: 100%;
+    width: 600px;
+    height: 600px;
+    border-radius: 20px;
+    margin-left: 30px;
+}
+
+
+.myimage{
+    padding-right: 50px;
+}
+
+
+
+.myschreiben{
+    font-size: 48px;
+    font-family: 'Nunito', sans-serif;
+font-weight: bold;
+}
+
+
+.myparagraf{
+    margin-bottom: 15px;
+    font-size: 16px;
+    color: #666;
+font-family: 'Montserrat', sans-serif;
+font-size: 17px;
+font-weight: 400;
+}
+
+.mybutton{
+    background-color: #ff375f;
+color: #fff;
+border-radius: 7px;
+font-weight: 600;
+text-decoration: none;
+font-size: 16px;
+font-family: 'Montserrat', sans-serif;
+padding: 0.6em 1.8em;
+}
+
+.myh2{
+    font-size: 48px;
+margin-bottom: 0;
+font-family: 'Nunito', sans-serif;
+font-weight: bold;
+color: #111;
+margin-left: 250px;
+}
+
+
+.myfoto{
+    max-width: 100%;
+    color: #666;
+font-family: 'Montserrat', sans-serif;
+font-size: 15px;
+font-weight: 400;
+border-radius: 10px;
+}
+
+.mykuli{
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+margin-bottom: 8px;
+}
+
+.mypro{
+    color: #666;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+
