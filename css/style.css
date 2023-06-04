@@ -164,3 +164,75 @@ margin-bottom: 8px;
 }
 
 
+.mysection{
+    background-color: #F8F8FB;
+    box-sizing: border-box;
+}
+.mydiv{
+    text-align: center;
+    background-color: #fff;
+    border-radius: 7px;
+    padding: 30px 20px;
+    border: 1px solid #eaeaea;
+    transition: all 0.3s ease;  
+    box-sizing: border-box; 
+}
+
+
+.mydiv-icon{
+    font-size: 36px;
+    margin-bottom: 22px;
+    height: 70px;
+    width: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%; 
+    color: #ff375f;
+fill: #ff375f;
+background-color: rgba(255, 55, 95, 0.1);
+text-align: center;
+box-sizing: border-box;
+}
+
+.myicon{
+    width: 40px;
+height: 40px;
+color: #ff375f;
+fill: #ff375f;
+font-size: 36px;
+text-align: center;
+}
+
+.mynummer{
+    font-size: 36px;
+    margin-bottom: 3px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+    clear: both;
+color: #111;
+padding: 0;
+margin: 0 0 10px 0;
+line-height: 1.2em;
+text-align: center;
+box-sizing: border-box;
+  
+}
+
+.myphrase{
+    font-size: 20px;
+    line-height: 1.6em;
+    font-weight: 600;
+    margin-bottom: -8px;
+    font-family: 'Nunito', sans-serif;
+    clear: both;
+color: #111;
+padding: 0;
+margin: 0 0 10px 0;
+box-sizing: border-box;
+text-align: center;
+    
+}
+
